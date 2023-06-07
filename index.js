@@ -30,6 +30,7 @@ document.getElementById("demo").innerHTML = document.getElementById("mySelect").
 <p id="demo"></p>
 =======
 <p>The id of the form is:<p>
+  <p>This is added paragraph</p>
 <p id="demo"></p>
 
 <script>
